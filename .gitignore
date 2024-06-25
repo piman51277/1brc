@@ -1,0 +1,5 @@
+.vscode
+*.out
+*.data
+*.data.old
+measurements.txt
