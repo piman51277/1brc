@@ -25,3 +25,4 @@ Run `./prof.sh` to compile, profile, and launch hotspot.
 
 ## Notes
 - Will only work on Linux and some other POSIX systems use due to the use of POSIX API calls.
+- `src/` contains the code as it was written. `mono.cpp` is an alternative version that was packed into a single file.
